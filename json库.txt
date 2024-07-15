@@ -1,0 +1,7 @@
+ÇáÁ¿¼¶json¿âÊµÏÖµÄ¹¦ÄÜ:
+jsonµÄ»ù±¾Êý¾ÝÀàÐÍµÄ½âÎö£ºnull£¬false£¬true£¬number£¬array£¬objectÀàÐÍµÄÊý¾ÝµÄ½âÎö£¬½«Êý¾Ý¼°ÀàÐÍ´æ´¢µ½json_value;µÄÊ÷ÖÐ
+jsonµÄÉú³É£ºÓÉjson_value;µÄÊ÷¸ù¾ÝÀàÐÍÖð½¥Éú³Éjson×Ö·û´®
+¶ÔÓë×Ö·û´®ÀàÐÍ£¬½öÖ§³Öutf8±àÂë¡£
+¾ßÌåÊµÏÖ£º²ÉÓÃc++±àÂë£¬Ê¹ÓÃºêÀ´ÊµÏÖ¹¦ÄÜµÄ²âÊÔÒÔ¼°´úÂëµÄ¸´ÓÃ£¬Ö÷ÌåÊ¹ÓÃµÝ¹éÏÂ½µ·¨£¬ÓÃÕ»À´Ïû³ýµÝ¹éÌáÉý´úÂëµÄÐ§ÂÊ¡£
+´úÂëÁÁµã£ºÊ¹ÓÃÁ÷µÄ·½Ê½·Ö±ðÓÃ¸÷ÖÖ·Ö¸î·û·Ö¸îÊý×é£¬²¢ÓÃÕ»Ïû³ýµÝ¹é¡£Ê¹ÓÃÕýÔò±í´ïÊ½¼ìÑéÊý¾ÝÀàÐÍ¡£
+²Î¿¼½Ì³Ì£ºhttps://zhuanlan.zhihu.com/json-tutorialÿÿÿÿÿÿÿÿÿÿÿÿ
